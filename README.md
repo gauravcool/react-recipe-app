@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I have used React, es6, React hooks, fetch api.
 
+https://webgradients.com/
+https://developer.edamam.com/edamam-docs-recipe-api
+
 ## Available Scripts
 
 In the project directory, you can run:
